@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "websiteUrl": "https://securelend.ai",
   "repository": {
-    "url": "https://github.com/orgtom78/mcp-underwriting",
+    "url": "https://github.com/SecureLend/mcp-underwriting",
     "source": "github"
   },
   "icons": [
