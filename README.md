@@ -34,7 +34,7 @@ See [`server.json`](./server.json) (namespace `ai.securelend/lender` after domai
 
 ## Not this product
 
-- **Market / placement MCP** (consumer comparison): https://mcp.securelend.ai/mcp — sibling wrapper [mcp-market](https://github.com/orgtom78/mcp-market)
+- **Market / placement MCP** (consumer comparison): https://mcp.securelend.ai/mcp — sibling wrapper [mcp-market](https://github.com/SecureLend/mcp-market)
 - Do **not** use `agents.securelend.ai` (shut down)
 
 ## License
